@@ -189,7 +189,7 @@ public class BoardController {
     }
 }
 ```
-## Script principal: sketch.js
+## Script principal: `Board.js`
 ```
 let points = [];
 let userColor;
